@@ -86,7 +86,7 @@ Nanobanana Cleaner 是一个轻量快速的 Python 工具，用于去除 AI 生�
 #### 方法 1：使用 uv（推荐）
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nanobanana-Cleaner.git
+git clone https://github.com/MRT-8/Nanobanana-Cleaner.git
 cd Nanobanana-Cleaner
 uv sync
 ```
@@ -94,7 +94,7 @@ uv sync
 #### 方法 2：使用 pip
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nanobanana-Cleaner.git
+git clone https://github.com/MRT-8/Nanobanana-Cleaner.git
 cd Nanobanana-Cleaner
 pip install numpy pillow scipy scikit-learn
 ```

@@ -86,7 +86,7 @@ Have you ever encountered this situation: AI-generated images look great, but wh
 #### Method 1: Using uv (Recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nanobanana-Cleaner.git
+git clone https://github.com/MRT-8/Nanobanana-Cleaner.git
 cd Nanobanana-Cleaner
 uv sync
 ```
@@ -94,7 +94,7 @@ uv sync
 #### Method 2: Using pip
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nanobanana-Cleaner.git
+git clone https://github.com/MRT-8/Nanobanana-Cleaner.git
 cd Nanobanana-Cleaner
 pip install numpy pillow scipy scikit-learn
 ```
